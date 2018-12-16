@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Contacts
+Comment=
+GenericName=
+Exec=@EXEC_NAME@ %U
+Icon=org.pantheon.dexter-contacts
+Terminal=false
+Categories=Utility;GTK;Development;
+Keywords=Develop

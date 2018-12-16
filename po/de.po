@@ -1,0 +1,125 @@
+# German translations for org.pantheon.dexter-contacts package.
+# Copyright (C) 2018 THE org.pantheon.dexter-contacts'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the org.pantheon.dexter-contacts package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: org.pantheon.dexter-contacts"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2018-12-15 22:31-0500"
+"PO-Revision-Date: 2018-12-15 22:31-0500"
+"Last-Translator: Automatically generated"
+"Language-Team: none"
+"Language: de"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=ASCII"
+"Content-Transfer-Encoding: 8bit"
+"Plural-Forms: nplurals=2; plural=(n != 1);"
+
+#: src/Window.vala:86
+msgid "Try to add some"
+msgstr ""
+
+#: src/Window.vala:87
+msgid "Create"
+msgstr ""
+
+#: src/Window.vala:87
+msgid "Create a new contact"
+msgstr ""
+
+#: src/Window.vala:88
+msgid "Import"
+msgstr ""
+
+#: src/Window.vala:88
+msgid "Add a vCard"
+msgstr ""
+
+#: src/Window.vala:89
+msgid "Exit Contacts"
+msgstr ""
+
+#: src/Window.vala:89
+msgid "Close Contacts For Now!"
+msgstr ""
+
+#: src/ContactView.vala:67
+msgid "Dates"
+msgstr ""
+
+#: src/ContactView.vala:68
+msgid "Address"
+msgstr ""
+
+#: src/ContactView.vala:69
+msgid "Phone"
+msgstr ""
+
+#: src/ContactView.vala:70
+msgid "Email"
+msgstr ""
+
+#: src/ContactView.vala:119 src/ContactView.vala:129 src/ContactView.vala:161
+#: src/ContactView.vala:171 src/ContactView.vala:201 src/ContactView.vala:211
+msgid "Other:"
+msgstr ""
+
+#: src/ContactView.vala:125 src/ContactView.vala:167 src/ContactView.vala:207
+msgid "Home:"
+msgstr ""
+
+#: src/ContactView.vala:127 src/ContactView.vala:169 src/ContactView.vala:209
+msgid "Work:"
+msgstr ""
+
+#: src/ContactView.vala:131 src/ContactView.vala:173 src/ContactView.vala:213
+msgid "Personal:"
+msgstr ""
+
+#: src/ContactView.vala:133
+msgid "Mobile:"
+msgstr ""
+
+#: src/ContactView.vala:231
+msgid "Birthday:"
+msgstr ""
+
+#: src/ContactView.vala:278
+#, c-format
+msgid " %s at %s"
+msgstr ""
+
+#: src/ContactView.vala:286
+#, c-format
+msgid " %s as %s"
+msgstr ""
+
+#: src/Dialogs/ContactDialog.vala:35
+msgid "Add Contact"
+msgstr ""
+
+#: src/Dialogs/ContactDialog.vala:69
+msgid "Create Contact"
+msgstr ""
+
+#: src/Dialogs/ContactDialog.vala:71
+msgid "Save Changes"
+msgstr ""
+
+#: src/Dialogs/ContactDialog.vala:74
+msgid "Close"
+msgstr ""
+
+#: src/Dialogs/ContactDialog.vala:78
+msgid "Delete Contact"
+msgstr ""
+
+#: src/Dialogs/InfoPanel.vala:35
+msgid "Name"
+msgstr ""
+
+#: src/Dialogs/InfoPanel.vala:41
+msgid "CEO at elementary LLC."
+msgstr ""

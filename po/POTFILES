@@ -1,0 +1,14 @@
+src/Application.vala
+src/Window.vala
+src/ContactsList.vala
+src/ContactsManager.vala
+src/ContactView.vala
+src/Dialogs/ContactDialog.vala
+src/Dialogs/InfoPanel.vala
+src/Widgets/ContactAddressEntry.vala
+src/Widgets/ContactBody.vala
+src/Widgets/ContactImage.vala
+src/Widgets/ContactItem.vala
+src/Widgets/EntryGrid.vala
+src/Widgets/HeaderItem.vala
+src/Widgets/MapView.vala
